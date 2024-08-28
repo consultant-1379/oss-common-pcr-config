@@ -1,0 +1,12 @@
+apiVersion: v2
+dependencies:
+- condition: eric-eo-api-gateway.enabled
+  name: eric-eo-api-gateway
+  repository: https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-so-gs-all-helm/
+  version: 3.0.0-51
+description: Chart containing dummy values for pcr job test
+maintainers:
+- email: PDLDUMMY@pdl.internal.ericsson.com
+  name: Dummy team
+name: eric-oss-dummy-chart
+version: 0.1.0-000

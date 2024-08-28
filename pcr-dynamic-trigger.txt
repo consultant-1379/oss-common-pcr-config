@@ -1,0 +1,4 @@
+### test project definition
+p=OSS/EO-Parent/OSS/com.ericsson.oss.cicd/oss-common-pcr-config
+b^**
+### end of project definition
